@@ -1,0 +1,37 @@
+2019-05-31 vmware 电面（全程中文）
+
+1. 介绍自己和项目
+2. css: position 有哪些值及具体用法
+    1. 怎么实现
+3. css: z-index 具体用法（什么时候生效）
+    1. <div><div style=“z-index:100;”></div><div><div style=“z-index: 20;”></div></div> 所有div都是绝对定位的，浏览器会怎么显示？
+4. css选择器优先级
+5. css伪类例举
+    1. :first-child :first-line 的区别
+6. 怎么实现垂直居中
+7. 怎么隐藏一个html元素
+    1. Display:none / visibility: hidden / html5 hidden 差别？
+8. SASS / LESS，主要特点
+9. 事件流
+10. call & apply
+11. HTTP请求种类
+    1. PUT vs POST
+    2. PATCH
+12. Promise
+    1. 与普通的异步请求有什么不同
+13. ES6 语法
+    1. const obj = {a: 1}; obj.a = 2;   // 问a的值被改了么？
+14. VUE: 父子component之间怎么传值？
+    1. 为什么要用emit，而不允许子component直接修改props里的值
+15. var a = 1; function test(b) { b = 2; }; test(a);  // 求a
+16. var a = {key: 1}; function test(b) { b.key = 2; }; test(a); // 求a.key
+17. var a = {key: 1}; function test(b) { b = {key: 2}; }; test(a); // 求a.key
+18. 如何实现一个function add：使add(1)(2) 返回3
+19. 有一个包含重复数字的array，如何去重
+20. 斐波那契数列（1,2,3,5,8…）现实一个方法，输入n，得到数列里的第n个值
+
+关于他们
+公司氛围：与Oracle类似
+项目：与LA类似
+技术栈：Angular7
+

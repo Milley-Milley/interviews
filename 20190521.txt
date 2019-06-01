@@ -1,0 +1,17 @@
+2019-05-21 SAP onsite
+
+Javascript deepcopy
+0.1+0.2精度问题
+原型链
+ajax底层实现
+Student.prototype === Student.__proto__
+html5 新特性
+jQuery底层实现
+浏览器存储有哪些，及区别
+跨域
+knockoutjs 双向绑定原理
+Vue 双向绑定原理
+设计模式
+各种后端 Database
+
+英文面：阅读理解

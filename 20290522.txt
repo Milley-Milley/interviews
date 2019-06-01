@@ -1,0 +1,28 @@
+2019-05-22 阿里口碑 电面
+
+Oracle整个workflow
+面试官纠结于如何发布以及快速响应user发现的bug
+特别强调自主研究能力，自学，自己做项目
+
+原型链
+响应式布局（面试官建议：PC Mobile 完全分开写）
+webPack
+事件冒泡和事件捕获
+事件的浏览器兼容性
+
+反转String
+String.pritotype.replace 第二个参数能否是函数？具体用法
+String 的 trim 不兼容的解决方案
+用Array模拟栈：Array.prototype.push           & Array.prototype.pop
+正则：贪婪、非贪婪
+正则里的特殊字符及用法
+
+CSS水平居中垂直居中
+CSS 盒模型
+Flex具体语法
+Promise
+5个并发请求，如何做到所有请求都完成之后，再做处理？（注：若一个请求失败了，其他请求还要继续）
+ES6 async
+HTTP请求的种类，Get 和 POST 的区别
+HTTP请求返回301/302的指？重定向
+安全漏洞及如何预防
